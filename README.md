@@ -18,7 +18,6 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 # then install equitabpfn and its dependencies 
 git clone git@github.com:MichaelArbel/EquiTabPFN-dev.git
 cd EquiTabPFN-dev
-git checkout setup
 
 uv venv
 
